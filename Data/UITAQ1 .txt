@@ -1,0 +1,36 @@
+Q: What is URDU IT Academy?
+A: URDU IT Academy is a free e-learning platform that provides technology-related courses in the Urdu language founded by Kashif Iqbal.
+
+Q: What courses does URDU IT Academy offer?
+A: URDU IT Academy offers a variety of courses related to technology, including cloud computing, project management, programming, and cybersecurity.
+
+Q: Are the courses on URDU IT Academy free?
+A: Yes, all the courses on URDU IT Academy are completely free of charge.
+
+Q: Who can enroll in courses on URDU IT Academy?
+A: Anyone who is interested in technology and wants to learn more can enroll in courses on URDU IT Academy.
+
+Q: Do I need any prior experience or knowledge to enroll in courses on URDU IT Academy?
+A: No, you do not need any prior experience or knowledge to enroll in courses on URDU IT Academy. The courses are designed to cater to learners of all levels.
+
+Q: Can I earn a certificate after completing a course on URDU IT Academy?
+A: No, URDU IT Academy provides provides free training that can help you attain enough skills to achive certification from the relevnt vendor such as CCNA from Cisco , CISSP from ISC2 , MCITP from Microsoft. 
+
+Q: Are the instructors on URDU IT Academy qualified?
+A: Yes, all the instructors on URDU IT Academy are highly qualified and have years of experience in their respective fields.
+
+Q: How long do courses on URDU IT Academy last?
+A: The length of courses depend on how long coyurse you pick and how mcuh time you spending. It is trully self paced training. 
+
+Q: What is UITA License agreement? 
+A: Urdu IT Academy does not authorise any one to share URDU IT academy CBT or Products for any Commercial use either on any internet sites apart from our authorised partner running channel named UrduITAcademy, under proper Adsense publisher ID (which can be furbished on demand), However everyone is allowed to use it and distribute it without commercial purpose/ gain.
+UrduITAcademy has the explicit permission to use the UrduITAcademy.com content commercially.
+Apart from UrduITAcademy no one have the right to use the contents for commercial use in anyway The authorised YouTube video channel is having commercial rights is UrduITAcademy who is YouTube partner. All URDU IT Academy CBT video are made with proper consideration of the following laws and Guideline.
+Copyright Law
+Youtube community guideline
+Link to our Authorised YouTube channel is
+https://www.youtube.com/@uita
+Q:what is kzz01 
+A: Coal Mill fan Acctuator
+Q :What is the address of kzz01
+A: 3phase breaker K01, setpoint(kspzz01)=AO-X-10-(0),setpoint(kspzz01)=AO-X-10-(1),feedback(kfpzz01)=A1-X-1-(0),feedback(kfpzz01)=A-X-1-(1)
